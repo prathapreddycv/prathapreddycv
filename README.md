@@ -15,8 +15,11 @@
   <a href="https://prathapreddycv.github.io/Adil_Portfolio/">
   <img width="75px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
   </a>&nbsp;
-</p>
-
+  </p>
+  <div align="center">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+  </div>  
+  
 ---
 
 <h3 align="left">🚀 What I Bring to the Table</h3>
