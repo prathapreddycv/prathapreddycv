@@ -9,7 +9,7 @@
   <a href="mailto:prathap.cnd@gmail.com">
   <img width="75px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" />
   </a>&ensp;
-  <a href="https://prathapreddycv.github.io/Adil_Portfolio/">
+  <a href="https://github.com/prathapreddycv/">
   <img width="75px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
   </a>&ensp;
   <a href="https://prathapreddycv.github.io/Adil_Portfolio/">
