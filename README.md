@@ -12,13 +12,15 @@
   <a href="https://github.com/prathapreddycv/">
   <img width="75px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
   </a>&ensp;
-  <a href="https://prathapreddycv.github.io/Adil_Portfolio/">
+  <a href="https://hub.docker.com/repositories/prathapreddycv/">
   <img width="75px" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" />
   </a>&nbsp;
   </p>
   <div align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
   </div>  
+
+  <h3 align="left">  "Adept in building secure, scalable cloud infrastructures with AWS, Terraform. Skilled in container orchestration with Kubernetes and Docker, and focused on CI/CD, monitoring, and cloud system optimization." </h3>
   
 ---
 
